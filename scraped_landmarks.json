@@ -1,0 +1,591 @@
+{
+    "NEW YORK            ": {
+        "Madison                 ": {
+            "Peterboro                           ": [
+                "Smith, Gerrit, Estate"
+            ],
+            "Oneida                              ": [
+                "Oneida Community Mansion House"
+            ]
+        },
+        "Tompkins                ": {
+            "Ithaca                              ": [
+                "Morrill Hall, Cornell University"
+            ]
+        },
+        "Saratoga                ": {
+            "Saratoga Springs                    ": [
+                "Canfield Casino and Congress Park",
+                "Casino-Congress Park-Circular Street Historic District",
+                "Petrified Sea Gardens",
+                "Saratoga Spa State Park District",
+                "Yaddo"
+            ]
+        },
+        "Oneida                  ": {
+            "Utica                               ": [
+                "Conkling, Roscoe, House",
+                "Utica State Hospital"
+            ],
+            "Rome                                ": [
+                "Fort Stanwix National Monument",
+                "Oriskany Battlefield"
+            ],
+            "Westernville                        ": [
+                "Floyd, Gen. William, House"
+            ],
+            "Clinton                             ": [
+                "Root, Elihu, House"
+            ]
+        },
+        "Westchester             ": {
+            "Yonkers and                         ": [
+                "Croton Aqueduct, Old"
+            ],
+            "Irvington                           ": [
+                "Armour-Stiner House",
+                "Villa Lewaro"
+            ],
+            "Somers                              ": [
+                "Elephant Hotel"
+            ],
+            "Croton-on-Hudson                    ": [
+                "Van Cortlandt Manor"
+            ],
+            "Cortlandt Manor                     ": [
+                "Copland, Aaron, House"
+            ],
+            "Sleepy Hollow                       ": [
+                "Dutch Reformed Church",
+                "Philipsburg Manor"
+            ],
+            "Mt. Pleasant                        ": [
+                "Rockefeller, John D., Estate"
+            ],
+            "Tarrytown                           ": [
+                "Lyndhurst",
+                "Sunnyside"
+            ],
+            "Hastings-on-Hudson                  ": [
+                "Draper, John W., House"
+            ],
+            "Valhalla                            ": [
+                "Hartford, John A., House"
+            ],
+            "Rye                                 ": [
+                "Boston Post Road Historic District",
+                "Playland Amusement Park"
+            ],
+            "New Rochelle                        ": [
+                "Paine, Thomas, Cottage"
+            ],
+            "Yonkers                             ": [
+                "Philipse Manor Hall"
+            ],
+            "Katonah                             ": [
+                "Jay, John, Homestead"
+            ]
+        },
+        "Genesee                 ": {
+            "Batavia                             ": [
+                "Holland Land Office"
+            ]
+        },
+        "Cayuga                  ": {
+            "Poplar Ridge                        ": [
+                "Wood, Jethro, House"
+            ],
+            "Auburn                              ": [
+                "Harriet Tubman Home for the Aged",
+                "Seward, William H., House",
+                "Tubman Home for the Aged, Harriet Tubman Residence, Thompson A.M.E. Zion Church (Boundary Increase)",
+                "Willard Memorial Chapel--Welch Memorial Hall"
+            ]
+        },
+        "Fulton                  ": {
+            "Johnstown                           ": [
+                "Johnson Hall"
+            ]
+        },
+        "Washington              ": {
+            "South Granville                     ": [
+                "Haynes, Lemuel, House"
+            ]
+        },
+        "Seneca                  ": {
+            "Seneca Falls                        ": [
+                "Stanton, Elizabeth Cady, House"
+            ],
+            "Fayette                             ": [
+                "Rose Hill"
+            ]
+        },
+        "Greene                  ": {
+            "Coxsackie                           ": [
+                "Bronck, Pieter, House"
+            ],
+            "Catskill                            ": [
+                "Cole, Thomas, House"
+            ]
+        },
+        "Monroe                  ": {
+            "Rochester                           ": [
+                "Anthony, Susan B., House",
+                "Eastman, George, House"
+            ]
+        },
+        "Ontario                 ": {
+            "Victor                              ": [
+                "Boughton Hill"
+            ]
+        },
+        "Niagara                 ": {
+            "Niagara Falls                       ": [
+                "Adams Power Plant Transformer House",
+                "Niagara Reservation"
+            ],
+            "Youngstown                          ": [
+                "Old Fort Niagara--Colonial Niagara Historic District"
+            ],
+            "Lewiston                            ": [
+                "Lower Landing Archeological District"
+            ]
+        },
+        "Chautauqua              ": {
+            "Chautauqua                          ": [
+                "Chautauqua Institution Historic District",
+                "Miller, Lewis, Cottage, Chautauqua Institution"
+            ]
+        },
+        "Columbia                ": {
+            "Kinderhook                          ": [
+                "Van Alen, Luycas, House",
+                "Van Buren, Martin, National Historic Site"
+            ],
+            "Hudson                              ": [
+                "Bronson, Dr. Oliver, House and Estate"
+            ],
+            "Austerlitz                          ": [
+                "Steepletop"
+            ],
+            "Germantown                          ": [
+                "Clermont"
+            ],
+            "Church Hill                         ": [
+                "Olana"
+            ],
+            "New Lebanon                         ": [
+                "Mount Lebanon Shaker Society"
+            ]
+        },
+        "Richmond                ": {
+            "New York                            ": [
+                "Austen, Elizabeth Alice, House",
+                "Conference House",
+                "FIREFIGHTER",
+                "Sailors' Snug Harbor National Register District",
+                "Voorlezer's House"
+            ],
+            "Tottenville                         ": [
+                "Wards Point Archeological Site"
+            ]
+        },
+        "Bronx                   ": {
+            "New York                            ": [
+                "Bartow-Pell Mansion and Carriage House",
+                "Lorillard Snuff Mill",
+                "New York Botanical Gardens",
+                "Van Cortlandt, Frederick, House"
+            ],
+            "Bronx                               ": [
+                "Woodlawn Cemetery"
+            ]
+        },
+        "Delaware                ": {
+            "Roxbury                             ": [
+                "Woodchuck Lodge (Burroughs, John, Home)"
+            ]
+        },
+        "Schenectady             ": {
+            "Schenectady                         ": [
+                "General Electric Research Laboratory",
+                "Langmuir, Irving, House",
+                "Nott Memorial Hall"
+            ],
+            "Delanson                            ": [
+                "Delanson Historic District"
+            ]
+        },
+        "Orleans                 ": {
+            "Childs                              ": [
+                "Cobblestone Historic District"
+            ]
+        },
+        "Schuyler                ": {
+            "Tyrone                              ": [
+                "Lamoka"
+            ]
+        },
+        "Livingston              ": {
+            "Geneseo                             ": [
+                "Geneseo Historic District",
+                "Main Street Historic District",
+                "Main Street Historic District (Boundary Increase)"
+            ]
+        },
+        "Erie                    ": {
+            "Buffalo                             ": [
+                "Buffalo and Erie County Historical Society",
+                "Buffalo State Asylum for the Insane",
+                "EDWARD M. COTTER (fireboat)",
+                "Kleinhans Music Hall",
+                "Martin, Darwin D., House",
+                "NASH (harbor tug)",
+                "Prudential Building",
+                "St. Paul's Episcopal Cathedral",
+                "USS THE SULLIVANS (destroyer)"
+            ],
+            "East Aurora                         ": [
+                "Fillmore, Millard, House",
+                "Roycroft Campus"
+            ]
+        },
+        "Ulster                  ": {
+            "City of Kingston                    ": [
+                "First Reformed Protestant Dutch Church of Kingston"
+            ],
+            "New Paltz                           ": [
+                "Hasbrouck, Jean, House",
+                "Huguenot Street Historic District",
+                "Lake Mohonk Mountain House Complex"
+            ],
+            "West Park                           ": [
+                "Burroughs, John, Riverby Study",
+                "Slabsides (John Burroughs Cabin)"
+            ],
+            "Hurley                              ": [
+                "Hurley Historic District"
+            ]
+        },
+        "Dutchess                ": {
+            "Hyde Park                           ": [
+                "Top Cottage"
+            ],
+            "Poughkeepsie                        ": [
+                "Hudson River State Hospital, Main Building",
+                "Locust Grove",
+                "Main Building, Vassar College",
+                "Vassar College Observatory",
+                "Vassar, Matthew, Estate"
+            ],
+            "Staatsburg                          ": [
+                "Hudson River Heritage Historic District"
+            ],
+            "Tivoli                              ": [
+                "Montgomery Place"
+            ]
+        },
+        "Nassau                  ": {
+            "Port Washington                     ": [
+                "Sousa, John Philip, House"
+            ],
+            "Oyster Bay                          ": [
+                "Fort Massapeag Archeological Site"
+            ]
+        },
+        "Warren                  ": {
+            "Lake George                         ": [
+                "LAND TORTOISE (radeau) Shipwreck Site",
+                "Owl's Nest"
+            ]
+        },
+        "Rockland                ": {
+            "Stony Point                         ": [
+                "Stony Point Battlefield"
+            ],
+            "Tappan                              ": [
+                "De Wint House"
+            ]
+        },
+        "Franklin                ": {
+            "Saranac Inn                         ": [
+                "Eagle Island Camp"
+            ]
+        },
+        "Kings                   ": {
+            "New York                            ": [
+                "Brooklyn Bridge",
+                "Brooklyn Heights Historic District",
+                "Holy Trinity Church (Protestant Episcopal)",
+                "Plymouth Church of the Pilgrims",
+                "Quarters A",
+                "Robinson, John Roosevelt \"Jackie\", House",
+                "Wyckoff, Pieter, House",
+                "Wyckoff-Bennett Homestead"
+            ],
+            "Brooklyn                            ": [
+                "Brooklyn Historical Society",
+                "Green--Wood Cemetery"
+            ]
+        },
+        "Otsego                  ": {
+            "Springfield Center                  ": [
+                "Hyde Hall"
+            ]
+        },
+        "Suffolk                 ": {
+            "East Hampton                        ": [
+                "Moran, Thomas, House",
+                "Pollock, Jackson, House and Studio"
+            ],
+            "Cutchogue                           ": [
+                "Fort Corchaug Archeological Site",
+                "Old House, The"
+            ],
+            "Sag Harbor                          ": [
+                "First Presbyterian Church"
+            ],
+            "Smithtown                           ": [
+                "First Presbyterian Church"
+            ],
+            "West Sayville                       ": [
+                "MODESTY (south-sider Sloop)",
+                "Priscilla (Long Island Sound Oyster Sloop)",
+                "Rudolph Oyster House"
+            ],
+            "Stony Brook                         ": [
+                "Mount, William Sydney, House"
+            ]
+        },
+        "Rensselaer              ": {
+            "Walloomsac                          ": [
+                "Bennington Battlefield"
+            ],
+            "Troy                                ": [
+                "Mullany, Kate, House",
+                "Troy Savings Bank and Music Hall",
+                "W. & L. E. Gurley Building"
+            ],
+            "Rensselaer                          ": [
+                "Fort Crailo"
+            ]
+        },
+        "Montgomery              ": {
+            "Fort Johnson                        ": [
+                "Fort Johnson"
+            ],
+            "Fort Hunter                         ": [
+                "Erie Canal"
+            ],
+            "St. Johnsville                      ": [
+                "Fort Klock"
+            ]
+        },
+        "New York                ": {
+            "New York                            ": [
+                "69th Regiment Armory",
+                "African Burying Ground",
+                "AMBROSE (lightship)",
+                "American Stock Exchange",
+                "Arthur, Chester A., House",
+                "Bayard-Condict Building",
+                "Bell Telephone Laboratories",
+                "Carnegie Hall",
+                "Carnegie, Andrew, Mansion",
+                "Central Park",
+                "Central Synagogue",
+                "Chamber of Commerce Building",
+                "Chrysler Building",
+                "Church of the Ascension (Protestant Episcopal)",
+                "City Hall",
+                "Cook, Will Marion, House",
+                "Cooper Union",
+                "Daily News Building",
+                "Dakota Apartments",
+                "Dyckman, William, House",
+                "Eldridge Street Synagogue",
+                "Ellington, Edward Kennedy \"Duke\", House",
+                "Empire State Building",
+                "Equitable Building",
+                "Fish, Hamilton, House",
+                "Flatiron Building",
+                "Founder's Hall, The Rockefeller University",
+                "Governors Island",
+                "Grace Church and Dependencies",
+                "Grand Central Terminal",
+                "Guggenheim, Solomon R., Museum",
+                "Hamilton Grange National Memorial",
+                "Henry Street Settlement and Neighborhood Playhouse",
+                "Henson, Matthew, Residence",
+                "Holland Tunnel",
+                "Johnson, James Weldon, House",
+                "LETTIE G. HOWARD (schooner)",
+                "Low Memorial Library, Columbia University",
+                "Macy, R. H., and Company Store",
+                "McGraw-Hill Building",
+                "McKay, Claude, Residence",
+                "Metropolitan Life Insurance Company",
+                "Metropolitan Museum of Art",
+                "Morgan, Pierpont, Library",
+                "Morris-Jumel Mansion",
+                "National City Bank",
+                "New York Amsterdam News Building",
+                "New York Cotton Exchange",
+                "New York Life Building",
+                "New York Public Library",
+                "New York Public Library and Bryant Park",
+                "New York Stock Exchange",
+                "New York Studio School of Drawing, Painting and Sculpture",
+                "New York Yacht Club",
+                "Old Merchant's House",
+                "Philosophy Hall",
+                "Players, The",
+                "Plaza Hotel",
+                "Pupin Physics Laboratories, Columbia University",
+                "Robeson, Paul, Home",
+                "Rockefeller Center",
+                "Sanger, Margaret, Clinic",
+                "Scott, Gen. Winfield, House",
+                "Seventh Regiment Armory",
+                "Sinclair, Harry F., House",
+                "Smith, Alfred E., House",
+                "Soho Historic District",
+                "St. George's Episcopal Church",
+                "St. Patrick's Cathedral",
+                "St. Paul's Chapel",
+                "Stewart, A. T., Company Store",
+                "Stonewall",
+                "Surrogate's Court",
+                "Tenement Building at 97 Orchard Street",
+                "The Frick Collection and Frick Art Reference Library Building",
+                "Third Judicial District Courthouse",
+                "Tiffany and Company Building",
+                "Tilden, Samuel J., House",
+                "Triangle Shirtwaist Factory",
+                "Trinity Church and Graveyard",
+                "Tweed Courthouse",
+                "U.S. Customhouse",
+                "Union Square",
+                "United Charities Building Complex",
+                "USS EDSON (DD-946)",
+                "USS INTREPID (aircraft carrier)",
+                "Woolworth Building"
+            ]
+        },
+        "Queens                  ": {
+            "New York                            ": [
+                "Armstrong, Louis, House",
+                "Bunche, Ralph, House",
+                "King Manor",
+                "Old Quaker Meetinghouse"
+            ]
+        },
+        "Orange                  ": {
+            "Newburgh                            ": [
+                "Dutch Reformed Church",
+                "Washington's Headquarters"
+            ],
+            "West Point                          ": [
+                "U.S. Military Academy"
+            ],
+            "Cuddebackville                      ": [
+                "Delaware and Hudson Canal"
+            ],
+            "Vails Gate                          ": [
+                "Knox Headquarters"
+            ],
+            "Goshen                              ": [
+                "Historic Track"
+            ],
+            "Fort Montgomery                     ": [
+                "Fort Montgomery Site"
+            ],
+            "Harriman                            ": [
+                "Arden"
+            ]
+        },
+        "Albany                  ": {
+            "Cohoes                              ": [
+                "Harmony Mill Historic District",
+                "Harmony Mill No. 3"
+            ],
+            "Watervliet                          ": [
+                "Watervliet Arsenal"
+            ],
+            "Albany                              ": [
+                "Fort Orange Archeological Site",
+                "Hall, James, Office",
+                "New York State Capitol",
+                "Schuyler, Philip, Mansion",
+                "St. Peter's Church"
+            ],
+            "Menands                             ": [
+                "Schuyler Flatts"
+            ]
+        },
+        "Hamilton                ": {
+            "Town of Long Lake                   ": [
+                "Camp Uncas"
+            ],
+            "Raquette Lake                       ": [
+                "Camp Pine Knot"
+            ],
+            "Racquette Lake                      ": [
+                "Sagamore"
+            ]
+        },
+        "Broome                  ": {
+            "Binghamton                          ": [
+                "New York State Inebriate Asylum"
+            ]
+        },
+        "Lewis                   ": {
+            "Lowville                            ": [
+                "Hough, Franklin B., House"
+            ]
+        },
+        "Chemung                 ": {
+            "Elmira                              ": [
+                "Newtown Battlefield"
+            ]
+        },
+        "Putnam                  ": {
+            "Garrison                            ": [
+                "Manitoga"
+            ]
+        },
+        "Essex                   ": {
+            "Newcomb                             ": [
+                "Camp Santanoni"
+            ],
+            "Port Kent                           ": [
+                "Watson, Elkanah, House"
+            ],
+            "Crown Point                         ": [
+                "Fort Crown Point",
+                "Fort St. Frederic"
+            ],
+            "Lake Placid                         ": [
+                "Brown, John, Farm and Gravesite"
+            ],
+            "Ticonderoga                         ": [
+                "Fort Ticonderoga",
+                "Fort Ticonderoga"
+            ]
+        },
+        "Clinton                 ": {
+            "Adirondack State Forest Preserve    ": [
+                "Adirondack Forest Preserve"
+            ],
+            "Plattsburgh                         ": [
+                "Plattsburgh Bay",
+                "Valcour Bay"
+            ]
+        },
+        "Herkimer                ": {
+            "Danube                              ": [
+                "Mohawk Upper Castle Historic District"
+            ]
+        }
+    }
+}
