@@ -1,0 +1,10 @@
+# New York State Landmarks
+## LIS 664 Final Project
+
+Project Workflow
+
+For this project I chose to explore datasets related to historic landmarks in New York State, which includes individual landmarks, i.e. historic houses, monuments, etc., and historic districts, which are usually whole neighborhoods or large portions of neighborhoods. All of this information was ultimately pulled from New York State’s open data project. I exported the dataset, entitled National Register of Historic Places, New York State, to a CSV file to manipulate the data (National_Register_of_Historic_Places.csv). Using Python, I wrote a script (nys_historic_places.py) that culled the data I wanted, namely the county in New York, the geographic location, and the name of the landmark, and organized it in a dictionary of dictionaries which was then output to JSON (scrapes_state_landmarks.json).
+
+I settled on using Tableau Desktop for my visualizations which would enable me to put this data into an interactive map.  However, I ran into some trouble at this step because the version of Tableau compatible with my computer, does not communicate with JSON. So what I decided to do was parse the original CSV and write a script in python (nys_historic_places_parsed.py) to pull the rows of data of interest to me and write a new CSV (nys_historic_landmarks_new.csv). I was then able to upload this new CSV to Tableau to make my visualizations. Once the map populated with all the New York State Landmarks, I programmed it so that when a location is selected, the user is redirected to a google search for that landmark. I also created a simple bar graph of the landmarks by county. Tableau has a feature to make an interactive dashboard by combining separate visualizations and enabling them to be codependent. This dashboard allows the bar graph to act as a filter for the map; when a bar for a county is chosen, the map will highlight the landmarks in that particular county.
+ 
+I pulled my visualizations together and created a basic website using the Wix platform to display them, http://mbeck1013.wixsite.com/nystatelandmarks.
