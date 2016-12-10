@@ -23,17 +23,8 @@ with open('National_Register_of_Historic_Places.csv','r') as f:
 		
 		if landmark_name not in nys_historic_places[county_name][location]:
 		
-			#nys_historic_places[county_name].append(landmark_name)
 			nys_historic_places[county_name][location].append(landmark_name)
 		
 		
-		
-			
-		#if location not in nys_historic_places[county_name][landmark_name]:
-			
-		#	nys_historic_places[county_name][landmark_name].append(location)
-		
-#print(nys_historic_places)
-
 with open('scraped_state_landmarks.json', 'w') as f:
 	f.write(json.dumps(nys_historic_places,indent=4))	
